@@ -1,3 +1,3 @@
 ## AlgaWorks
 
-Acesse http://blog.algaworks.com/spring-email/
+Acesse http://blog.algaworks.com/spring-gmail/
